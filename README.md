@@ -1,3 +1,2 @@
 # Hello!
-
-#My name is HamamatsuGyoza. Nise to meet you!
+My name is HamamatsuGyoza. Nise to meet you!
